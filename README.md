@@ -24,7 +24,7 @@
 
 | Project | Description | Tech stack |
 |---------|-------------|------------|
-| **[project1](ссылка)** | Краткое описание проекта | Стэк |
+| **[FAT16 Analyzer](https://github.com/Wild-sergunys/fat16-analyzer)** | Low-level FAT16 filesystem analyzer, damage injector, and automatic recovery tool. Course project for Networks & OS. | Go, CGo, TCP, Fyne GUI |
 
 ---
 
