@@ -1,11 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Go developer banner" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00ADD8&center=false&vCenter=true&random=false&width=500&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Wild-sergunys;Go+Developer+%F0%9F%90%BA;Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00ADD8&center=false&vCenter=true&random=false&width=500&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Wild-sergunys;Go+Developer;Backend+Engineer" alt="Typing SVG" />
 </h1>
 
 ## 👨‍💻 About me
