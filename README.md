@@ -25,7 +25,8 @@
 | Project | Description | Tech stack |
 |---------|-------------|------------|
 | **[FAT16 Analyzer](https://github.com/Wild-sergunys/fat16-analyzer)** | Low-level FAT16 filesystem analyzer, damage injector, and automatic recovery tool. Course project for Networks & OS. | Go, CGo, TCP, Fyne GUI |
-| **[flowmodel](https://github.com/Wild-sergunys/flowmodel)** | Web application for modeling non-isothermal flow of anomalously viscous materials in a channel with a moving upper lid. 🚧 *In development* | Go, MySQL, Docker |
+| **[flowmodel](https://github.com/Wild-sergunys/flowmodel)** | Web application for modeling non-isothermal flow of anomalously viscous materials in a channel with a moving upper lid. | Go, MySQL, Docker |
+
 
 ---
 
