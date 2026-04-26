@@ -26,6 +26,7 @@
 |---------|-------------|------------|
 | **[FAT16 Analyzer](https://github.com/Wild-sergunys/fat16-analyzer)** | Low-level FAT16 filesystem analyzer, damage injector, and automatic recovery tool. Course project for Networks & OS. | Go, CGo, TCP, Fyne GUI |
 | **[flowmodel](https://github.com/Wild-sergunys/flowmodel)** | Web application for modeling non-isothermal flow of anomalously viscous materials in a channel with a moving upper lid. | Go, MySQL, Docker |
+| **[shrtic](https://github.com/Wild-sergunys/shrtic)** | URL shortener with click analytics: browsers, devices, countries, referrers. 🚧 *In development* | Go, PostgreSQL, Redis, Docker |
 
 
 ---
