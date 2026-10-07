@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Wild Sergunys — Backend Engineer in Go">
+
+  <!-- фон: GitHub dark canvas -->
+  <rect width="1200" height="340" fill="#0d1117"/>
+
+  <!-- рамка: GitHub border -->
+  <rect x="6" y="6" width="1188" height="328" fill="none" stroke="#30363d" stroke-width="3"/>
+
+  <!-- вертикальная метка -->
+  <rect x="7" y="7" width="14" height="326" fill="#e6edf3"/>
+
+  <!-- имя -->
+  <text x="54" y="178" font-family="monospace" font-size="88" font-weight="700"
+        fill="#e6edf3" letter-spacing="-3">WILD SERGUNYS</text>
+
+  <!-- подпись -->
+  <text x="56" y="234" font-family="monospace" font-size="30" font-weight="500"
+        fill="#8b949e" letter-spacing="3">Backend Engineer · Go</text>
+
+  <!-- панель -->
+  <rect x="800" y="126" width="352" height="112" fill="#161b22" stroke="#30363d" stroke-width="3"/>
+  <text x="826" y="180" font-family="monospace" font-size="36" font-weight="700"
+        fill="#e6edf3" letter-spacing="2">4TH YEAR</text>
+  <text x="826" y="220" font-family="monospace" font-size="24" font-weight="500"
+        fill="#8b949e" letter-spacing="2">SPBSIT · SPB / RU</text>
+
+</svg>
